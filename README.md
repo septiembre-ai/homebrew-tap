@@ -3,5 +3,5 @@
 Install the Septiembre CLI with:
 
 ```bash
-brew install septiembre-ai/tap/septiembre
+brew install --cask septiembre-ai/tap/septiembre
 ```
